@@ -13,3 +13,10 @@ This is why, we will build a model that will predict the conversion rate of cust
 We have collected data about users of the website of a public limited company. Your project is to:
 * Create a conversion rate prediction model (will the user convert or not?).
 * Find recommendations to make for the Product & Marketing team so that they can improve this conversion rate.
+
+### Results
+***Logistic Regression Receiver Operating Characteristic (ROC) Curve***
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZoziLaMalice/conversion_rate/master/discovery/Notebooks/Log_ROC.png">
+</p>
